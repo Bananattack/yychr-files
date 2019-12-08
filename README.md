@@ -6,6 +6,6 @@ These are meant to make graphics editing and viewing easier with this version of
 
 To get the official, latest YY-CHR, go here: https://www45.atwiki.jp/yychr/
 
-There is a mirror included in this repo under `mirror/` for the exact version (`yychr20190719`) that this configuration is made for. These files are copyright the YY-CHR author, and only mirrored here for archival/convenience.
+There is a mirror included in this repo under `mirror/` for the exact version (`yychr20190719`) that this configuration is made for. These files are copyright the YY-CHR author(s)/contributor(s), and only mirrored here for archival/convenience.
 
 Copy the contents of the `files/` folder into your YY-CHR folder as desired, to configure your YY-CHR installation.
